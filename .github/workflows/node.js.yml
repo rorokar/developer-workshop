@@ -28,4 +28,3 @@ jobs:
     - run: npm install -g snyk
     - run: snyk auth ${{secrets.SNYK_AUTH}}
     - run: snyk test
-    - run: npm start
