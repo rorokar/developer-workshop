@@ -27,5 +27,6 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm install
+    - run: snyk auth ${{env.SNYK_AUTH}}
     - run: npm test
     - run: npm start
