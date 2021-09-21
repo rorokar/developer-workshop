@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'a93ae897-146b-4830-b633-261d90549a20'
 
   # Web app name
-  webAppName: 'Calculator'
+  webAppName: 'calculator-snyk'
 
   # Environment name
   environmentName: ''
