@@ -8,3 +8,6 @@ We will be creating a calculator app (based on this code https://github.com/ahfa
 - GitHub, GitHub Projects, GitHub Actions, Github Pages
 - Visual Studio Code
 - React.js and Node.js
+
+## Output
+Calculator which you can see here https://ericfernandezsnyk.github.io/developer-workshop/
