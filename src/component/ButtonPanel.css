@@ -1,10 +1,10 @@
 .component-button-panel {
-  background-color: #858694;
+  background-color: #80f2ca;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   flex: 1 0 auto;
-}
+  } 
 
 .component-button-panel > div {
   width: 100%;
