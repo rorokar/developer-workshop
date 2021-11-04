@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/developer-workshop/static/css/main.c8cbd6fa.chunk.css",
+    "main.css": "/developer-workshop/static/css/main.28e24ed4.chunk.css",
     "main.js": "/developer-workshop/static/js/main.961e6f89.chunk.js",
     "main.js.map": "/developer-workshop/static/js/main.961e6f89.chunk.js.map",
     "runtime~main.js": "/developer-workshop/static/js/runtime~main.d9cf90e6.js",
@@ -9,9 +9,9 @@
     "static/js/2.9067ee69.chunk.js": "/developer-workshop/static/js/2.9067ee69.chunk.js",
     "static/js/2.9067ee69.chunk.js.map": "/developer-workshop/static/js/2.9067ee69.chunk.js.map",
     "index.html": "/developer-workshop/index.html",
-    "precache-manifest.21043827e093c6d19965071edd1c46ea.js": "/developer-workshop/precache-manifest.21043827e093c6d19965071edd1c46ea.js",
+    "precache-manifest.3ab0cc1f0de03d8d54239c8f0d1633e5.js": "/developer-workshop/precache-manifest.3ab0cc1f0de03d8d54239c8f0d1633e5.js",
     "service-worker.js": "/developer-workshop/service-worker.js",
     "static/css/2.f87fbcaa.chunk.css.map": "/developer-workshop/static/css/2.f87fbcaa.chunk.css.map",
-    "static/css/main.c8cbd6fa.chunk.css.map": "/developer-workshop/static/css/main.c8cbd6fa.chunk.css.map"
+    "static/css/main.28e24ed4.chunk.css.map": "/developer-workshop/static/css/main.28e24ed4.chunk.css.map"
   }
 }
