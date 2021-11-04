@@ -25,3 +25,8 @@
   background-color: #f5923e;
   color: white;
 }
+
+.component-button.orange button {
+  background-color: #3ea6f5;
+  color: white;
+}
